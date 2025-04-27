@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.exe
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.deps.json
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.runtimeconfig.json
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.dll
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.pdb
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.dll
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\refint\LectorDirectorio.dll
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.pdb
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\ref\LectorDirectorio.dll
