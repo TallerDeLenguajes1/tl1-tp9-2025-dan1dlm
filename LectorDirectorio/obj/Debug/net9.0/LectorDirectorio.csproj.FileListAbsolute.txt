@@ -12,3 +12,18 @@ C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9
 C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.pdb
 C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.genruntimeconfig.cache
 C:\Users\Alumno\Desktop\tp9\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\ref\LectorDirectorio.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.exe
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.deps.json
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.runtimeconfig.json
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\bin\Debug\net9.0\LectorDirectorio.pdb
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.AssemblyInfo.cs
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.sourcelink.json
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\refint\LectorDirectorio.dll
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.pdb
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\LectorDirectorio.genruntimeconfig.cache
+C:\Users\Daniel\Documents\Materias Facultad\Taller de Lenguajes I\tl1-tp9-2025-dan1dlm\LectorDirectorio\obj\Debug\net9.0\ref\LectorDirectorio.dll

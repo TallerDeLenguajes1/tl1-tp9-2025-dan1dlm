@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\Materias Facultad\\Taller de Lenguajes I\\tl1-tp9-2025-dan1dlm\\LectorDirectorio\\LectorDirectorio.csproj",
-      "projectName": "LectorDirectorio",
-      "projectPath": "C:\\Users\\Daniel\\Documents\\Materias Facultad\\Taller de Lenguajes I\\tl1-tp9-2025-dan1dlm\\LectorDirectorio\\LectorDirectorio.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\Materias Facultad\\Taller de Lenguajes I\\tl1-tp9-2025-dan1dlm\\LectorTagMP3\\LectorTagMP3.csproj",
+      "projectName": "LectorTagMP3",
+      "projectPath": "C:\\Users\\Daniel\\Documents\\Materias Facultad\\Taller de Lenguajes I\\tl1-tp9-2025-dan1dlm\\LectorTagMP3\\LectorTagMP3.csproj",
       "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel\\Documents\\Materias Facultad\\Taller de Lenguajes I\\tl1-tp9-2025-dan1dlm\\LectorDirectorio\\obj\\",
+      "outputPath": "C:\\Users\\Daniel\\Documents\\Materias Facultad\\Taller de Lenguajes I\\tl1-tp9-2025-dan1dlm\\LectorTagMP3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"

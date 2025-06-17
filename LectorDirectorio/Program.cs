@@ -38,15 +38,13 @@ foreach(var file in files){
 string nombreArchivo = "reporte_archivos.csv";
 string rutaOriginal = Path.Combine(directoryPath, nombreArchivo);
 
-using (StreamWriter writer = new StreamWriter(rutaOriginal)){
+using (StreamWriter writer = new StreamWriter(rutaOriginal, append: true)){
     FileInfo archivoInfo = new FileInfo(nombreArchivo);
-    writer.WriteLine($"{archivoInfo.FullName}");
     double tamanio = archivoInfo.Length/1024.0;
-    writer.WriteLine($"{tamanio:F2}");
-    writer.WriteLine($"{archivoInfo.LastWriteTime}");
+    writer.WriteLine($"{archivoInfo.FullName}, {tamanio}, {archivoInfo.LastWriteTime}");
 }
 
-
+Console.WriteLine("Programa terminado");
 
 
 
